@@ -54,7 +54,7 @@ include "koneksi.php";
 		<td><?php echo $sisa_cuti['pengajuan_cuti'];?></td>
         <td><?php echo $sisa_cuti['sisa_cuti'];?></td>
 
-		<td><a href="hapus_mahasiswa.php?id_karyawan=<?php echo $sisa_cuti['id_karyawan'];?>">HAPUS</td>
+		<td><a href="hapus_karyawan.php?id_karyawan=<?php echo $sisa_cuti['id_karyawan'];?>">HAPUS</td>
     </tr>
 
         <?php } ?>
