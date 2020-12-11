@@ -76,7 +76,7 @@ if ($query){
     </tr>
 	<tr>
         <td><input class="btn bg-danger" type="submit" name="save" value="SAVE"></td> 
-		<td><a class="btn bg-danger" href="tampil_mahasiswa.php" role="button">MENAMPILKAN DATA</a></td>
+		<td><a class="btn bg-danger" href="tampil_karyawan.php" role="button">MENAMPILKAN DATA</a></td>
 	</tr>
 
 

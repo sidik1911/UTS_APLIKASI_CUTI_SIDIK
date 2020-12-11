@@ -62,7 +62,7 @@ include "koneksi.php";
 </table>
 <table class="table bg-warning">
 	<tr>
-	<td><a class="btn bg-danger" href="input_mahasiswa.php" role="button">END</a><td>
+	<td><a class="btn bg-danger" href="input_karyawan.php" role="button">END</a><td>
 	</tr>
 </table>
 </html>
